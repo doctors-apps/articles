@@ -5,7 +5,7 @@
     <img src="https://doctorsapp.co.in/uploads/treatment_image/ICSI.jpg" alt="Artificial Insemination Cost">
   </a>
 </p>
-##Artificial Insemination Cost
+## Artificial Insemination Cost
 
 Artificial insemination is a fertility treatment that involves placing sperm directly into a woman's reproductive tract to facilitate fertilization. The cost of artificial insemination can vary depending on factors such as the clinic, location, and additional services required. In general, the average cost of artificial insemination ranges from $300 to $1,000 per cycle, with additional expenses for medications, ultrasound monitoring, and other procedures. It's important to consult with a healthcare provider or fertility specialist to discuss the specific costs associated with artificial insemination and explore any potential financial assistance options that may be available.
 
